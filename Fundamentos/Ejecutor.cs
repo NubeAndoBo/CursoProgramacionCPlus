@@ -15,11 +15,11 @@ namespace Fundamentos
     {
         static void Main(string[] args)
         {
-            Leccion1.Ejecutar();
-            //Leccion2.Ejecutar();
-            //Leccion3.Ejecutar();
-            //Leccion4.Ejecutar();
-            //Leccion5.Ejecutar();
+            Practica1.Ejecutar();
+            //Practica2.Ejecutar();
+            //Practica3.Ejecutar();
+            //Practica4.Ejecutar();
+            //Practica5.Ejecutar();
         }
     }
 }

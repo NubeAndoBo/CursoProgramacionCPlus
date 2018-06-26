@@ -13,7 +13,7 @@
 
 namespace Fundamentos
 {
-    class Leccion2
+    class Practica2
     {
         public static void Ejecutar()
         {
