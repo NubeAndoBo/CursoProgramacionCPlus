@@ -17,8 +17,8 @@ Curso de programación C#
 CursoProgramacionCSharp
 │
 +───Fundamentos/				// Programacion Introductorio
-|			│   
-|			+───Leccion1.cs		// declaracion de variables y manejo de ciclos
+|		│   
+|		+───Leccion1.cs			// declaracion de variables y manejo de ciclos
 │   
 +───Metodos/					// Programación Básico
 │				
