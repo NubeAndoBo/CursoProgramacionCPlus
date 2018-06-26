@@ -1,5 +1,17 @@
 ﻿using System;
 
+/**
+ * Base de datos
+ *
+ * SER - Servicio de recaudaciones
+ * Sistema de Gestión de Turnos. 
+ *
+ * @author: Angel Céspedes Quiroz
+ * @Web: http://www.nubeando.com
+ * @Linkedin: https://bo.linkedin.com/in/acq1305
+ *
+ */
+
 namespace Fundamentos
 {
     class Leccion1
