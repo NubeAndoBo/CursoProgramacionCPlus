@@ -48,13 +48,11 @@ namespace Fundamentos
             decimal x1 = 12.2m;
             bool bandera1 = true;
             string cadena1 = "12344";
-            DateTime fecha1 = DateTime.MinValue;
             i1 = Convert.ToInt32(cadena1);
             Console.WriteLine("El valor de i1 es: {0}", i1);
             Console.WriteLine("El valor de x1 es: {0:C}", x1);
             Console.WriteLine("El valor de bandera1 es: " + bandera1.ToString());
             Console.WriteLine("El valor de cadena1: " + cadena1);
-            Console.WriteLine("El valor de fecha1: " + fecha1.ToShortDateString());
 
             Console.ReadKey();
 
