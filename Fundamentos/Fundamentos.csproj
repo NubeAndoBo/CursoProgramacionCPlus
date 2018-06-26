@@ -44,6 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Leccion1.cs" />
+    <Compile Include="Leccion2.cs" />
+    <Compile Include="Leccion3.cs" />
+    <Compile Include="Leccion4.cs" />
+    <Compile Include="Leccion5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
