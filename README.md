@@ -26,7 +26,7 @@ CursoProgramacionCSharp
 +───ProgramacionOO/				// Programación Intermedia
 |
 |
-+───ProgramacionIG/				// Programación GUI
++───ProgramacionGUI/			// Programación GUI
 │				
 |
 ```
