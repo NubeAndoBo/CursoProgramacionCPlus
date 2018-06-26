@@ -20,13 +20,13 @@ CursoProgramacionCSharp
 |		│   
 |		+───Leccion1.cs			// declaracion de variables y manejo de ciclos
 │   
-+───Metodos/					// Programación Básico
++───Metodos/					  // Programación Básico
 │				
 │
-+───ProgramacionOO/				// Programación Intermedia
++───ProgramacionOO/			// Programación Intermedia
 |
 |
-+───ProgramacionGUI/			// Programación GUI
++───ProgramacionGUI/		// Programación GUI
 │				
 |
 ```
