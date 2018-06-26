@@ -16,17 +16,17 @@ Curso de programación C#
 ```
 CursoProgramacionCSharp
 │
-+───Fundamentos/									// Programacion Introductorio
-|				│   
-|				+───Leccion1.cs						// declaracion de variables y manejo de ciclos
++───Fundamentos/				// Programacion Introductorio
+|			│   
+|			+───Leccion1.cs		// declaracion de variables y manejo de ciclos
 │   
-+───Metodos/										// Programación Básico
++───Metodos/					// Programación Básico
 │				
 │
-+───ProgramacionOO									// Programación Intermedia
++───ProgramacionOO/				// Programación Intermedia
 |
 |
-+───ProgramacionIG/									// Programación GUI
++───ProgramacionIG/				// Programación GUI
 │				
 |
 ```
