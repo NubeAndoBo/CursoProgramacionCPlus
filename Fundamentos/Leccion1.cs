@@ -1,10 +1,11 @@
 ﻿using System;
 
 /**
- * Base de datos
+ * Fundamentos de programación en C#
  *
- * SER - Servicio de recaudaciones
- * Sistema de Gestión de Turnos. 
+ * Declaracion de variables
+ * Manejo de condiciones
+ * Manejo de ciclos
  *
  * @author: Angel Céspedes Quiroz
  * @Web: http://www.nubeando.com
