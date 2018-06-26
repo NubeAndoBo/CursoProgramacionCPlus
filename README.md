@@ -2,9 +2,10 @@
 Curso de programación C#
 
 * Fundamentos(Programacion Introductorio)
-* Metodos(Programación Básico)
-* Programación Orientada a objetos
-* Programación de interfaces graficas
+* Metodos(Programación de Algoritmos)
+* ProgramacionOO(Programación Orientada a Objetos)
+* ProgramacionBO(Programación Basada en Objetos)
+* ProgramacionGUI(Programación GUI)
 
 ## Docente
 
@@ -20,10 +21,13 @@ CursoProgramacionCSharp
 |		│   
 |		+───Leccion1.cs(declaracion de variables y manejo de ciclos)
 │   
-+───Metodos(Programación Básico)/
++───Metodos(Programación de Algoritmos)/
 │				
 │
-+───ProgramacionOO(Programación Intermedia)/			 
++───ProgramacionOO(Programación Orientada a Objetos)/			 
+|
+|
++───ProgramacionBO(Programación Basada en Objetos)/ 
 |
 |
 +───ProgramacionGUI(Programación GUI)/ 
