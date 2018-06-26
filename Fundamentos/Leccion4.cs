@@ -15,7 +15,7 @@ namespace Fundamentos
 {
     class Leccion4
     {
-        static void Main(string[] args)
+        public static void Ejecutar()
         {
             Console.WriteLine("*********************************************************");
             Console.WriteLine("probando con ciclos parte 4");

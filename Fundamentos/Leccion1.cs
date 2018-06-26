@@ -15,7 +15,7 @@ namespace Fundamentos
 {
     class Leccion1
     {
-        static void Main(string[] args)
+        public static void Ejecutar()
         {
             Console.WriteLine("*********************************************************");
             Console.WriteLine("probando con variables parte 1");
@@ -27,14 +27,12 @@ namespace Fundamentos
             double d = 0.0D;
             string cadena = "Hola mundo";
             bool bandera = false;
-            DateTime fecha = DateTime.MinValue;
             Console.WriteLine("El valor de i es: " + i);
             Console.WriteLine("El valor de x es: " + x);
             Console.WriteLine("El valor de f es: " + f);
             Console.WriteLine("El valor de d es: " + d);
             Console.WriteLine("El valor de cadena es: " + cadena);
             Console.WriteLine("El valor de bandera es: " + bandera.ToString());
-            Console.WriteLine("El valor de fecha es: " + fecha.ToShortDateString());
 
             Console.ReadKey();            
         }

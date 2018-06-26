@@ -15,7 +15,7 @@ namespace Fundamentos
 {
     class Leccion3
     {
-        static void Main(string[] args)
+        public static void Ejecutar()
         {
             Console.WriteLine("*********************************************************");
             Console.WriteLine("probando con variables y desicion parte 3");
