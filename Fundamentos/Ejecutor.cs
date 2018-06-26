@@ -1,7 +1,7 @@
 ﻿/**
  * Fundamentos de programación en C#
  *
- * Ejecutor de lecciones
+ * Ejecutor de practicas
  *
  * @author: Angel Céspedes Quiroz
  * @Web: http://www.nubeando.com
