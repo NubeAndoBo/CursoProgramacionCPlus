@@ -1,8 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/**
+ * Fundamentos de programación en C#
+ *
+ * Ejecutor de lecciones
+ *
+ * @author: Angel Céspedes Quiroz
+ * @Web: http://www.nubeando.com
+ * @Linkedin: https://bo.linkedin.com/in/acq1305
+ *
+ */
 
 namespace Fundamentos
 {
