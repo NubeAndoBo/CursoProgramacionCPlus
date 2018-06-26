@@ -1,8 +1,8 @@
 # CursoProgramacionCSharp
 Curso de programación C#
 
-* Fundamentos
-* Procedimientos y Funciones
+* Fundamentos(Programacion Introductorio)
+* Metodos(Programación Básico)
 * Programación Orientada a objetos
 * Programación de interfaces graficas
 
