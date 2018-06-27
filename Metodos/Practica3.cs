@@ -1,4 +1,7 @@
-﻿/**
+﻿
+
+using System;
+/**
 * Fundamentos de programación en C#
 *
 * Metodos con vector de numeros
@@ -8,20 +11,19 @@
 * @Linkedin: https://bo.linkedin.com/in/acq1305
 *
 */
-
 namespace Metodos
 {
     class Practica3
     {
         // Funcion que devuelve la suma de los elementos de un vector
         public static int sumaElementos(int[] v)
-        {            
+        {
             int sum = 0;
             int ele;
-            for(int i= 0; i < v.Length; i++)
+            for (int i = 0; i < v.Length; i++)
             {
-                ele= v[i];
-                sum = sum + ele; 
+                ele = v[i];
+                sum = sum + ele;
             }
             return sum;
         }
@@ -37,7 +39,7 @@ namespace Metodos
                 if (ele % 2 == 0)
                 {
                     sum = sum + ele;
-                }                
+                }
             }
             return sum;
         }
@@ -56,6 +58,17 @@ namespace Metodos
                 }
             }
             return sum;
+        }
+
+        // Procedimiento que imprime en consola los elementos de un vector
+        public static void Imprimir(int[] v)
+        {
+            int ele;
+            for (int i = 0; i < v.Length; i++)
+            {
+                ele = v[i];
+                Console.Write(ele + " ");
+            }
         }
     }
 }

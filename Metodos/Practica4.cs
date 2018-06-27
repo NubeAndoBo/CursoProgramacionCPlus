@@ -1,4 +1,7 @@
-﻿/**
+﻿
+
+using System;
+/**
 * Fundamentos de programación en C#
 *
 * Metodos con matriz de numeros
@@ -8,7 +11,6 @@
 * @Linkedin: https://bo.linkedin.com/in/acq1305
 *
 */
-
 namespace Metodos
 {
     class Practica4
@@ -65,6 +67,21 @@ namespace Metodos
                 }
             }
             return sum;
+        }
+
+        // Procedimiento que imprime en consola los elementos de una matriz
+        public static void Imprimir(int[][] mat)
+        {
+            int ele;
+            for (int f = 0; f < mat.GetLength(0); f++)
+            {
+                for (int c = 0; c < mat.GetLength(1); c++)
+                {
+                    ele = mat[f][c];
+                    Console.Write(ele + " ");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
