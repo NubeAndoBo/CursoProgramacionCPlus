@@ -71,7 +71,7 @@ namespace Metodos
         // Procedimiento que muestra si un numero es impar
         public static void Hola(int n)
         {
-            Console.WriteLine("el numero es: "+ (n%2==1));
+            Console.WriteLine("el numero es impar?: "+ (n%2==1));
         }
     }
 }
